@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 ```env
 # Конфигурация Telegram бота
-BOT_TOKEN=8360365701:AAGMkBLrBWazEorrK555-afU2a6qd7WVIVA
+BOT_TOKEN=Ваш_Токен_Бота
 
 # URL для парсинга статей
 HABR_URL=https://habr.com/ru/articles/
@@ -239,3 +239,5 @@ MIT License
 1. Проверьте [Issues](https://github.com/your-repo/issues)
 2. Создайте новый Issue с описанием проблемы
 3. Приложите логи и конфигурацию (без токенов!)
+
+Джумаева Камила(@svaarrogg)
