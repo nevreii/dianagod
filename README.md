@@ -38,7 +38,7 @@ Telegram бот для автоматического парсинга и ото
 ```bash
 # Клонирование репозитория
 git clone <repository-url>
-cd ggg
+cd src
 
 # Установка зависимостей
 pip install -r requirements.txt
